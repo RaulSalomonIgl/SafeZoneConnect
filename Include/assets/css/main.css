@@ -1,0 +1,14 @@
+a.btn{
+    padding: 10px;
+    border: 1px solid #F2F2F2;
+    border-radius: 10px;
+    color: #F2F2F2;
+    text-decoration: none;
+}
+h1.title-hero{
+    color: #FF4B4B;
+    font-size: 3.4rem;
+}
+p.txt-hero{
+    font-size: 1.5rem;
+}
