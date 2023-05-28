@@ -14,7 +14,7 @@ st.set_page_config(layout="wide")
 delitos = []
 lstCords = []
 
-with open("resources/Delitos_Municipio.csv") as csv_file:
+with open("./resources/Delitos_Municipio.csv") as csv_file:
     csv_reader = csv.reader(csv_file, delimiter=',')
     line_count = 0
     for row in csv_reader:
